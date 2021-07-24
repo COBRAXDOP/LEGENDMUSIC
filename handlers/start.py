@@ -14,20 +14,20 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "OWNER⚡️", url="https://t.me/Legend_Mr_Hacker"
+                        "𝐎𝐖𝐍𝐄𝐑👿", url="https://t.me/XD_COBRA"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Creater⚡️", url="https://t.me/Legend_Mr_Hacker"
+                        "𝐂𝐑𝐄𝐀𝐓𝐄𝐑👿", url="https://t.me/XD_COBRA"
                     ),
                     InlineKeyboardButton(
-                        "LEGEND⚡️", url="https://t.me/Legend_Mr_Hacker"
+                        "𝐂𝐎𝐁𝐑𝐀👿", url="https://t.me/XD_COBRA"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/Legend_Mr_Musicbot?startgroup=true"
+                        "𝐀𝐃𝐃 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏👿", url="https://t.me/Legend_Mr_Musicbot?startgroup=true"
                     )
                 ]
             ]
